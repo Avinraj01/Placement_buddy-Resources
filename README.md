@@ -6,7 +6,7 @@ A curated list of top multinational companies in India with direct links to thei
 
 ## 🏢 Companies List
 
-1. **[Company Name]**
+1. **[fbrfub]**
    - **LinkedIn:** [LinkedIn URL](#)
    - **Careers:** [Website URL](#)
    - **Sector:** Example Sector
