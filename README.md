@@ -9,7 +9,7 @@ A curated list of top multinational companies in India with direct links to thei
 1. **Accenture**
    - **LinkedIn:** [Accenture](https://www.linkedin.com/company/accenture)
    - **Careers:** [accenture.com](https://www.accenture.com/in-en/careers)
-   - **Sector:** IT Services
+   - **Sector:** IT Services 
    - **Location:** Mumbai, Maharashtra, India
 
 2. **Tata Consultancy Services (TCS)**
